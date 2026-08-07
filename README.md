@@ -16,7 +16,7 @@ NHS Thames Valley ICB · Reading, UK</p>
 
 I own financial analytics and invoicing assurance for a £2M+ Continuing Healthcare portfolio at NHS Thames Valley ICB, where I've cut invoicing error rates by 30% and removed 40% of manual reporting by building automated SQL and Power BI pipelines.
 
-I'm now targeting AI Engineer roles. My machine learning work spans neuromorphic architectures and model evaluation: my MSc thesis at the University of Sussex investigated optimisation strategies for Spiking Neural Networks, I've trained and shipped spiking classifiers end-to-end in PyTorch, and I've benchmarked Llama-3-8B against TruthfulQA and HellaSwag with full per-sample logging retained. I'm also completing ISO/IEC 42001 AI Management Systems certification with BSI.
+I'm now targeting AI Engineer roles. My machine learning work spans neuromorphic architectures and model evaluation: my MSc thesis at the University of Sussex investigated optimisation strategies for Spiking Neural Networks, I've trained and shipped spiking classifiers end-to-end in PyTorch, and I've benchmarked Llama-3-8B against TruthfulQA and HellaSwag with full per-sample logging retained. 
 
 The through-line is accountability. I want to build systems that work, and I care whether they can be evaluated, documented and trusted afterwards — the point where engineering rigour becomes organisational governance.
 
