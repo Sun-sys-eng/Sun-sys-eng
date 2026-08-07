@@ -1,6 +1,6 @@
 <h2 align="center">Aditya Gadkari</h2>
 
-<p align="center"><b>Data Analyst · AI Governance · Machine Learning</b><br/>
+<p align="center"><b>Data Analyst · AI Engineer</b><br/>
 NHS Thames Valley ICB · Reading, UK</p>
 
 <p align="center">
