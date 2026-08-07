@@ -40,7 +40,7 @@ The through-line is accountability: I'm interested in the point where analytical
 
 **MSc Artificial Intelligence & Adaptive Systems** — University of Sussex *(Merit)*
 **BE Mechatronics Engineering** — University of Mumbai *(Distinction)*
-**ISO/IEC 42001 AI Management Systems** — BSI *(in progress)*
+**ISO/IEC 42001 AI Management Systems** — BSI 
 
 An engineering degree underneath an AI degree means I understand both the physical systems that generate data and the statistical methods that interpret it.
 
