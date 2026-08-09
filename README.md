@@ -32,7 +32,7 @@ The through-line is accountability. I want to build systems that work, and I car
 | **[Universal Data Pipeline](https://github.com/adu3010/Data-Pipeline)** | Reusable ETL → EDA → feature engineering → report framework for arbitrary tabular datasets | Pandas, scikit-learn, Seaborn |
 | **[Real-Time Weather Pipeline](https://github.com/adu3010/Real-Time-Weather-Data-Processing-Pipeline)** | Concurrent producer-consumer pipeline ingesting live API telemetry with threaded parallel processing | Python threading, Requests |
 | **[Transaction QA Tool](https://github.com/adu3010/transaction-quality-check)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | scikit-learn, GitHub Actions |
-| **[GA + Hopfield Networks](https://github.com/adu3010/Genetic-Algorithm-Based-Evolution-of-Hippocampal-Memory-Models-with-Hopfield-Networks)** | Genetic algorithms evolving associative memory circuits modelled on hippocampal function | NumPy, evolutionary computation |
+| **[RAG Citation Service](https://github.com/adu3010/RAG-Citation-Service)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | python, GitHub Actions |
 
 ---
 
