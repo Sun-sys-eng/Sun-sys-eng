@@ -18,7 +18,7 @@ I own financial analytics and invoicing assurance for a £2M+ Continuing Healthc
 
 I'm now targeting AI Engineer roles. My machine learning work spans neuromorphic architectures and model evaluation: my MSc thesis at the University of Sussex investigated optimisation strategies for Spiking Neural Networks, I've trained and shipped spiking classifiers end-to-end in PyTorch, and I've benchmarked Llama-3-8B against TruthfulQA and HellaSwag with full per-sample logging retained. 
 
-The through-line is accountability. I want to build systems that work, and I care whether they can be evaluated, documented and trusted afterwards — the point where engineering rigour becomes organisational governance.
+The through-line is accountability. I want to build systems that work, and I care whether they can be evaluated, documented and trusted afterwards, the point where engineering rigour becomes organisational governance.
 
 ---
 
