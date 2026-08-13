@@ -29,8 +29,7 @@ The through-line is accountability. I want to build systems that work, and I car
 | **[SNN Optimisation — MSc Thesis](https://github.com/Sun-sys-eng/AI-Master-s-Thesis)** | Systematic study of five optimisation strategies for Spiking Neural Networks; cosine annealing lifted accuracy 86.01% → 88.36% | PyTorch, pytorch-spiking |
 | **[LLM Evaluation Harness](https://github.com/Sun-sys-eng/LLM-Evaluation)** | Llama-3-8B benchmarked on TruthfulQA and HellaSwag with full per-sample logging — the audit trail AI assurance frameworks require | lm-eval-harness, Transformers |
 | **[Universal Data Pipeline](https://github.com/Sun-sys-eng/Data-Pipeline)** | Reusable ETL → EDA → feature engineering → report framework for arbitrary tabular datasets | Pandas, scikit-learn, Seaborn |
-| **[Real-Time Weather Pipeline](https://github.com/Sun-sys-eng/Real-Time-Weather-Data-Processing-Pipeline)** | Concurrent producer-consumer pipeline ingesting live API telemetry with threaded parallel processing | Python 
-threading, Requests |
+| **[Real-Time Weather Pipeline](https://github.com/Sun-sys-eng/Real-Time-Weather-Data-Processing-Pipeline)** | Concurrent producer-consumer pipeline ingesting live API telemetry with threaded parallel processing | Python  |
 | **[Transaction QA Tool](https://github.com/Sun-sys-eng/transaction-quality-check)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | scikit-learn, GitHub Actions |
 | **[RAG Citation Service](https://github.com/Sun-sys-eng/RAG-Citation-Service)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | python, GitHub Actions |
 
