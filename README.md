@@ -47,8 +47,8 @@ An engineering degree underneath an AI degree means I understand both the physic
 
 ### Open To
 
-Data Analyst · AI Engineer roles in the UK.
-**Available for UK Skilled Worker Visa sponsorship.**
+Data Analyst · AI Engineer · NLP/LLM Engineer roles in the UK.
+
 
 <a href="https://linkedin.com/in/adityagadkari" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Gadkari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
