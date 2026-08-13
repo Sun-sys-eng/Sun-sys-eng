@@ -26,13 +26,18 @@ The through-line is accountability. I want to build systems that work, and I car
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[SNN Optimisation — MSc Thesis](https://github.com/adu3010/AI-Master-s-Thesis)** | Systematic study of five optimisation strategies for Spiking Neural Networks; cosine annealing lifted accuracy 86.01% → 88.36% | PyTorch, pytorch-spiking |
-| **[SNN MNIST Classifier](https://github.com/adu3010/-SNN-MNIST-Classifier)** | Neuromorphic digit classifier at ~98.5% accuracy, deployed as a live Streamlit app with surrogate gradient training | SNNtorch, PyTorch, Streamlit |
-| **[LLM Evaluation Harness](https://github.com/adu3010/LLM-Evaluation)** | Llama-3-8B benchmarked on TruthfulQA and HellaSwag with full per-sample logging — the audit trail AI assurance frameworks require | lm-eval-harness, Transformers |
-| **[Universal Data Pipeline](https://github.com/adu3010/Data-Pipeline)** | Reusable ETL → EDA → feature engineering → report framework for arbitrary tabular datasets | Pandas, scikit-learn, Seaborn |
-| **[Real-Time Weather Pipeline](https://github.com/adu3010/Real-Time-Weather-Data-Processing-Pipeline)** | Concurrent producer-consumer pipeline ingesting live API telemetry with threaded parallel processing | Python threading, Requests |
-| **[Transaction QA Tool](https://github.com/adu3010/transaction-quality-check)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | scikit-learn, GitHub Actions |
-| **[RAG Citation Service](https://github.com/adu3010/RAG-Citation-Service)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | python, GitHub Actions |
+| **[SNN Optimisation — MSc Thesis](https://github.com/Sun-sys-eng/AI-Master-s-Thesis)** | Systematic study of five optimisation strategies for Spiking Neural Networks; cosine annealing lifted accuracy 86.01% → 88.36% | PyTorch, pytorch-spiking |
+
+| **[LLM Evaluation Harness](https://github.com/Sun-sys-en/LLM-Evaluation)** | Llama-3-8B benchmarked on TruthfulQA and HellaSwag with full per-sample logging — the audit trail AI assurance frameworks require | lm-eval-harness, Transformers |
+
+| **[Universal Data Pipeline](https://github.com/Sun-sys-en/Data-Pipeline)** | Reusable ETL → EDA → feature engineering → report framework for arbitrary tabular datasets | Pandas, scikit-learn, Seaborn |
+
+| **[Real-Time Weather Pipeline](https://github.com/Sun-sys-en/Real-Time-Weather-Data-Processing-Pipeline)** | Concurrent producer-consumer pipeline ingesting live API telemetry with threaded parallel processing | Python 
+threading, Requests |
+
+| **[Transaction QA Tool](https://github.com/Sun-sys-en/transaction-quality-check)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | scikit-learn, GitHub Actions |
+
+| **[RAG Citation Service](https://github.com/Sun-sys-en/RAG-Citation-Service)** | Classification quality audit with CI, pre-commit hooks, and pinned dependencies | python, GitHub Actions |
 
 ---
 
